@@ -1,0 +1,7 @@
+/build/
+
+/Uri/
+/googletest/
+CMakeFiles/
+*.cmake
+CMakeCache.txt
