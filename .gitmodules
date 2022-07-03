@@ -1,0 +1,3 @@
+[submodule "Uri"]
+	path = Uri
+	url = git@github.com:sunshinelww/Uri.git
